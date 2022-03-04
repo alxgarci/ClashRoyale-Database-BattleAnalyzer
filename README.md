@@ -73,7 +73,7 @@ average crowns and trophies by deck (***more coming soon...***). Some basic stat
 - In cmd/console:
 
   ```
-  java -jar EXECUTABLE_NAME.jar
+  java -jar CRdb_Analyzer_v[VERSION].jar
   ```
 
 
