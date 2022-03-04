@@ -8,9 +8,8 @@
   <artifactId>royaleAPI</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>royaleAPI</name>
-  <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <name>CRoyaleDB</name>
+  <url>https://github.com/alxgarci/ClashRoyale_Database_BattleAnalyzer</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
