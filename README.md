@@ -1,4 +1,4 @@
-# Clash Royale Database - Battle Analyzer
+# Clash Royale Database - Battle Analyzer on Java
 
 - [Introduction](#introduction)
 - [Features](#features)
