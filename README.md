@@ -5,7 +5,6 @@
 - [Use](#use)
     - [Retrieve recent match history](#retrieve-recent-match-history)
     - [Printing the database](#printing-the-database)
-    - [Printing the database](#printing-the-database)
     - [Getting some stats](#getting-some-stats)
 - [Requirements](#requirements)
 - [Used libraries](#used-libraries)
